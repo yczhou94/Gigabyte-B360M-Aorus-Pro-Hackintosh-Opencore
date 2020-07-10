@@ -2,6 +2,8 @@
 
 
 
+系统版本：`macOS Catalina (Version 10.15.5)`
+
 ⚠️**注意：`config.plist`中的三码已被移除，请自行生成三码！！！**
 
 
